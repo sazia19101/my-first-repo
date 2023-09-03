@@ -1,1 +1,2 @@
 Hi i am sazia and this is my first repo.i am student and currently i am learning github.i have learned html,css
+i also learned css,bootstrap4,php,mysql and now i am learning javascript
